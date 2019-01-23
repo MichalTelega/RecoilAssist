@@ -1,3 +1,5 @@
+![](logo.png)
+
 # RecoilAssist - Projekt z przedmiotu Programowanie zdarzeniowe
 System korygujący ruchy myszki w celu skorygowania skupienia strzału w grach FPS
 
@@ -21,4 +23,3 @@ Dokumentacja projektowa powinna zawierać:
 *	Przypadki testowe.
 Kod powinien być przechowywany na platformie GitHub. W celu założenia repozytorium prywatnego należy uzyskać licencję Micro poprzez https://education.github.com/pack/offers.
 Każda akcja wykonywana na repozytorium musi być opatrzona odpowiednim komentarzem.
-
